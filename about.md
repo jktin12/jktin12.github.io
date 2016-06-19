@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm going into my 4th year of Software Engineering at Carleton University.  I prefer learning outside the classroom.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+It's pretty satisfying to watch someone enjoying an application that I've created.  That feeling drives me, and once I get started on a project I'm passionate about, it's hard to get me away from the keyboard.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[justinkrol11@gmail.com](mailto:justinkrol11@gmail.com)
